@@ -1,5 +1,6 @@
 # Solve the following problem:
 # Write a function to calculate the number of seconds in a week
+result=604,800
 
 # Write code here
 
